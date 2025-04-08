@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         KaHack!
+// @name         Dick!
 // @version      1.0.25
 // @namespace    https://github.com/jokeri2222
 // @description  A hack for kahoot.it!
